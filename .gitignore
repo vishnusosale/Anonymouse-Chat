@@ -1,0 +1,10 @@
+.DS_Store
+.atom/
+.idea
+.packages
+.pub/
+build/
+android/assets/google-services.json
+ios/.generated/
+packages
+pubspec.lock
