@@ -1,0 +1,7 @@
+name: Anonymouse Chat
+description: Anonymous[e] chat app
+dependencies:
+  flutter:
+    path: ../../flutter/packages/flutter
+  firebase:
+    git: https://github.com/flutter/firebase-dart.git

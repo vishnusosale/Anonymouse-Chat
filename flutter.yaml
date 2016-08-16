@@ -1,0 +1,4 @@
+name: Anonymouse Chat
+uses-material-design: true
+services:
+  - firebase
