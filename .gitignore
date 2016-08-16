@@ -8,3 +8,4 @@ android/assets/google-services.json
 ios/.generated/
 packages
 pubspec.lock
+.gitignore
